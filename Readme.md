@@ -1,6 +1,4 @@
-**Retail Sales Performance Analysis** 
-
-
+Retail Sales Performance Analysis
 
 Overview
 
@@ -12,157 +10,133 @@ The analysis delivers actionable insights into product and category performance,
 
 Objectives:
 
-\- Evaluate revenue performance by product and category.
+   Evaluate revenue performance by product and category.
 
-\- Identify top-selling products and peak sales periods.
+   Identify top-selling products and peak sales periods.
 
-\- Compare regional sales performance.
+   Compare regional sales performance.
 
-\- Develop an interactive Power BI dashboard for business insights.
+   Develop an interactive Power BI dashboard for business insights.
 
 
 
 Tools \& Technologies
 
+    Excel – Data preparation and cleaning  
 
+    MySQL – Data storage and SQL analysis  
 
-&nbsp; Excel – Data preparation and cleaning  
+    Python (Pandas, Matplotlib, Seaborn) – Data analysis \& visualization  
 
-&nbsp; MySQL – Data storage and SQL analysis  
+    Power BI – Interactive dashboard \& insights  
 
-&nbsp; Python (Pandas, Matplotlib, Seaborn) – Data analysis \& visualization  
-
-&nbsp; Power BI – Interactive dashboard \& insights  
-
-&nbsp; GitHub – Version control \& project portfolio  
+    GitHub – Version control \& project portfolio  
 
 
 
 Dataset Description
 
-
-
 The dataset contains \*\*500+ sales records\*\* with the following attributes:
 
+   Store\_ID  
 
+   Date  
 
-\- Store\_ID  
+   Product_Category  
 
-\- Date  
+   Product_Name  
 
-\- Product\_Category  
+   Units_Sold  
 
-\- Product\_Name  
+   Unit_Price  
 
-\- Units\_Sold  
+   Revenue  
 
-\- Unit\_Price  
-
-\- Revenue  
-
-\- Region  
+   Region  
 
 
 
 Methodology
 
+ Data Cleaning \& Preparation (Excel)
+
+ Removed duplicates and inconsistencies  
+
+ Standardized column naming conventions  
+
+ Validated missing or incorrect values  
 
 
-1\. Data Cleaning \& Preparation (Excel)
-
-\- Removed duplicates and inconsistencies  
-
-\- Standardized column naming conventions  
-
-\- Validated missing or incorrect values  
-
-
-
-2\. SQL Analysis (MySQL)
+SQL Analysis (MySQL)
 
 Key queries performed:
 
-\- Total revenue by product category  
+   Total revenue by product category  
 
-\- Top-selling products by revenue  
+   Top-selling products by revenue  
 
-\- Monthly revenue trends  
+   Monthly revenue trends  
 
-\- Regional sales performance  
+   Regional sales performance  
 
+Python Analysis
 
+Using \Pandas\ and visualization libraries:
 
-3\. Python Analysis
+   Revenue by category visualization  
 
-Using \*\*Pandas\*\* and visualization libraries:
+   Top products analysis  
 
-\- Revenue by category visualization  
+   Monthly revenue trends line chart  
 
-\- Top products analysis  
+   Regional revenue comparison  
 
-\- Monthly revenue trends line chart  
+   Generated charts and analytical outputs  
 
-\- Regional revenue comparison  
-
-\- Generated charts and analytical outputs  
-
-
-
-4\. Power BI Dashboard
+Power BI Dashboard
 
 Developed an interactive dashboard featuring:
 
-[Dashboard Screenshot](Retail sales Dashboard.png)
+![Dashboard Screenshot](Retail sales Dashboard.png)
 
-\- Revenue by Category  
+    Revenue by Category  
 
-\- Top Products by Revenue  
+    Top Products by Revenue  
 
-\- Monthly Revenue Trend  
+    Monthly Revenue Trend  
 
-\- Revenue by Region  
+    Revenue by Region  
 
-\- Interactive slicers for Product Category, Date, and Region  
-
+    Interactive slicers for Product Category, Date, and Region  
 
 
 Key Insights
 
+   Electronics category generates the \*\*highest revenue\*\*  
 
+   Top products: \*\*Headphones, Mobile, Laptop\*\*  
 
-\- Electronics category generates the \*\*highest revenue\*\*  
+   Monthly revenue peaks observed in \*\*May, November, December\*\*  
 
-\- Top products: \*\*Headphones, Mobile, Laptop\*\*  
+   West region shows \*\*highest sales\*\*, North region \*\*lowest\*\*  
 
-\- Monthly revenue peaks observed in \*\*May, November, December\*\*  
-
-\- West region shows \*\*highest sales\*\*, North region \*\*lowest\*\*  
-
-\- Interactive dashboard allows filtering by date, region, and category  
-
+   Interactive dashboard allows filtering by date, region, and category  
 
 
 Business Recommendations
 
+   Focus marketing \& inventory on high-revenue products  
 
+   Target underperforming categories for promotions  
 
-\- Focus marketing \& inventory on high-revenue products  
+   Optimize supply chain in high-sales regions  
 
-\- Target underperforming categories for promotions  
-
-\- Optimize supply chain in high-sales regions  
-
-\- Leverage monthly trends for seasonal planning  
-
-
-
+   Leverage monthly trends for seasonal planning  
 
 
 Project Structure
 
-
-
-Retail\_Sales\_Analysis\_2026/
+Retail\_Sales\_Analysis\
 
 │
 
@@ -191,26 +165,19 @@ Retail\_Sales\_Analysis\_2026/
 └── README.md
 
 
-
-
-
 Author
-
-
 
 Kaviya Arumaidurai 
 
 Data Analyst | Python | SQL | Power BI  
 
 
-
 Acknowledgment
 
-
-
-This project is part of a \*\*data analytics portfolio\*\* demonstrating end-to-end workflow:  
+This project is part of a \data analytics portfolio\ demonstrating end-to-end workflow:  
 
 Data Cleaning → SQL Analysis → Python Analytics → Visualization → Dashboard Creation.
+
 
 
 
