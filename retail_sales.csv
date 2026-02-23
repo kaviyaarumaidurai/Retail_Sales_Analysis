@@ -1,0 +1,501 @@
+StoreID,Date,Product_Category,Product_Name,Units_Sold,Unit_Price,Revenue,Region
+S007,13-02-2026,Electronics,Mobile,22,17388,382536,West
+S002,07-09-2026,Home Appliances,Fan,36,2050,73800,North
+S001,05-10-2026,Home Appliances,Blender,45,8252,371340,East
+S003,19-01-2026,Home Appliances,Fan,81,3883,314523,East
+S010,19-09-2026,Electronics,Laptop,7,26182,183274,South
+S009,04-12-2026,Clothing,Dress,82,897,73554,South
+S006,07-05-2026,Grocery,Milk,59,261,15399,South
+S008,04-01-2026,Clothing,Jacket,71,1343,95353,South
+S001,16-08-2026,Clothing,Jacket,32,855,27360,East
+S002,13-05-2026,Electronics,Mobile,42,46355,1946910,South
+S002,30-07-2026,Home Appliances,Vacuum Cleaner,23,9095,209185,West
+S003,21-03-2026,Home Appliances,Blender,74,3681,272394,South
+S007,16-09-2026,Clothing,Jacket,81,1004,81324,South
+S004,26-08-2026,Electronics,Mobile,48,30266,1452768,East
+S010,20-11-2026,Electronics,Mobile,16,46752,748032,North
+S005,09-08-2026,Grocery,Rice,8,90,720,West
+S001,02-11-2026,Electronics,Mobile,63,26448,1666224,West
+S009,09-05-2026,Electronics,TV,14,28237,395318,West
+S002,11-01-2026,Grocery,Eggs,9,470,4230,North
+S001,16-02-2026,Grocery,Wheat,27,458,12366,North
+S009,02-11-2026,Grocery,Eggs,13,128,1664,East
+S004,05-07-2026,Clothing,Dress,44,1204,52976,West
+S004,02-09-2026,Home Appliances,Fan,48,8637,414576,South
+S001,12-11-2026,Electronics,TV,49,37910,1857590,South
+S002,11-04-2026,Grocery,Wheat,83,246,20418,West
+S008,11-08-2026,Electronics,TV,96,32694,3138624,South
+S003,06-08-2026,Electronics,Headphones,28,32526,910728,West
+S006,09-10-2026,Home Appliances,Fan,82,9265,759730,East
+S004,19-02-2026,Home Appliances,Vacuum Cleaner,57,8864,505248,North
+S010,22-09-2026,Electronics,Mobile,83,43377,3600291,North
+S007,19-05-2026,Clothing,T-Shirt,93,682,63426,South
+S004,20-07-2026,Electronics,Mobile,45,48390,2177550,East
+S008,10-09-2026,Clothing,Jeans,77,432,33264,South
+S009,01-02-2026,Clothing,Jeans,63,1941,122283,West
+S003,25-07-2026,Grocery,Eggs,39,52,2028,East
+S007,03-10-2026,Electronics,Headphones,66,27739,1830774,West
+S001,20-07-2026,Clothing,T-Shirt,60,1799,107940,East
+S007,14-12-2026,Home Appliances,Microwave,68,9440,641920,West
+S008,02-02-2026,Clothing,Jeans,35,715,25025,East
+S001,14-11-2026,Electronics,Laptop,73,10545,769785,South
+S003,11-01-2026,Electronics,Headphones,77,11789,907753,East
+S008,02-03-2026,Clothing,Dress,69,1411,97359,South
+S003,25-10-2026,Home Appliances,Fan,60,5666,339960,South
+S005,14-12-2026,Clothing,T-Shirt,79,410,32390,East
+S007,22-09-2026,Electronics,Laptop,62,10783,668546,East
+S009,30-01-2026,Home Appliances,Blender,88,5057,445016,South
+S007,14-06-2026,Home Appliances,Fan,96,8818,846528,West
+S009,19-11-2026,Home Appliances,Microwave,99,7152,708048,East
+S009,09-03-2026,Home Appliances,Vacuum Cleaner,58,9769,566602,South
+S001,08-11-2026,Clothing,T-Shirt,60,1263,75780,South
+S010,02-07-2026,Grocery,Eggs,34,498,16932,South
+S009,26-01-2026,Home Appliances,Vacuum Cleaner,70,9661,676270,North
+S005,23-07-2026,Electronics,Mobile,19,25218,479142,North
+S003,08-04-2026,Electronics,Mobile,24,16414,393936,South
+S005,03-06-2026,Clothing,Dress,26,329,8554,North
+S008,04-01-2026,Grocery,Milk,88,238,20944,East
+S005,15-02-2026,Electronics,TV,11,49785,547635,West
+S008,10-05-2026,Clothing,T-Shirt,53,1029,54537,North
+S010,23-02-2026,Grocery,Wheat,78,413,32214,East
+S004,29-12-2026,Electronics,TV,48,30956,1485888,West
+S003,29-06-2026,Home Appliances,Blender,30,1899,56970,West
+S005,29-12-2026,Grocery,Milk,37,487,18019,South
+S003,22-11-2026,Grocery,Milk,100,93,9300,North
+S010,22-03-2026,Home Appliances,Fan,30,6361,190830,South
+S001,07-12-2026,Clothing,T-Shirt,49,1537,75313,West
+S006,15-02-2026,Grocery,Eggs,18,209,3762,West
+S009,18-04-2026,Grocery,Eggs,99,140,13860,North
+S001,27-11-2026,Clothing,Jeans,20,1737,34740,South
+S005,06-01-2026,Home Appliances,Microwave,23,4548,104604,West
+S004,04-09-2026,Grocery,Milk,16,86,1376,North
+S006,15-06-2026,Grocery,Milk,78,139,10842,West
+S009,13-05-2026,Grocery,Milk,18,199,3582,South
+S010,26-07-2026,Grocery,Rice,47,464,21808,South
+S003,26-02-2026,Grocery,Rice,25,57,1425,South
+S003,08-03-2026,Electronics,TV,73,20766,1515918,West
+S003,10-10-2026,Home Appliances,Fan,42,4159,174678,North
+S008,27-08-2026,Grocery,Wheat,85,438,37230,West
+S005,31-03-2026,Electronics,TV,12,20172,242064,West
+S007,29-05-2026,Clothing,T-Shirt,17,1505,25585,South
+S003,12-05-2026,Electronics,Laptop,41,36742,1506422,North
+S010,15-02-2026,Clothing,Jacket,26,1768,45968,South
+S001,30-01-2026,Home Appliances,Microwave,78,2276,177528,West
+S004,05-08-2026,Home Appliances,Microwave,59,2530,149270,South
+S001,05-03-2026,Electronics,Headphones,8,46221,369768,West
+S002,07-04-2026,Clothing,Dress,70,1349,94430,South
+S005,21-10-2026,Home Appliances,Microwave,40,8337,333480,East
+S003,27-08-2026,Electronics,Headphones,46,31733,1459718,North
+S001,06-08-2026,Electronics,Mobile,10,34022,340220,South
+S003,22-04-2026,Home Appliances,Vacuum Cleaner,28,1445,40460,West
+S004,14-06-2026,Grocery,Wheat,47,327,15369,West
+S001,03-06-2026,Electronics,Headphones,57,25052,1427964,South
+S006,24-10-2026,Home Appliances,Vacuum Cleaner,66,1611,106326,South
+S001,15-11-2026,Home Appliances,Microwave,76,4478,340328,South
+S010,29-04-2026,Electronics,Mobile,60,20179,1210740,West
+S003,31-01-2026,Electronics,Laptop,99,10621,1051479,North
+S010,14-06-2026,Clothing,Jeans,55,961,52855,East
+S007,07-08-2026,Home Appliances,Vacuum Cleaner,43,8289,356427,West
+S010,01-09-2026,Electronics,Laptop,56,45559,2551304,West
+S010,08-05-2026,Home Appliances,Fan,94,8420,791480,West
+S009,03-06-2026,Grocery,Milk,76,271,20596,West
+S006,05-07-2026,Electronics,Headphones,80,18843,1507440,East
+S002,10-09-2026,Clothing,Jeans,48,1870,89760,South
+S004,02-05-2026,Clothing,Jacket,46,972,44712,North
+S005,09-05-2026,Grocery,Rice,38,341,12958,North
+S007,15-02-2026,Electronics,Mobile,9,28203,253827,East
+S008,18-04-2026,Grocery,Wheat,84,481,40404,East
+S010,13-11-2026,Home Appliances,Blender,90,2762,248580,East
+S001,04-04-2026,Grocery,Eggs,64,416,26624,North
+S007,12-03-2026,Home Appliances,Fan,10,6031,60310,North
+S001,25-10-2026,Grocery,Eggs,60,128,7680,North
+S008,22-01-2026,Home Appliances,Vacuum Cleaner,91,9159,833469,West
+S003,21-06-2026,Grocery,Rice,34,333,11322,South
+S003,22-07-2026,Grocery,Wheat,26,277,7202,North
+S001,08-07-2026,Clothing,Jeans,70,1040,72800,East
+S002,12-03-2026,Home Appliances,Microwave,90,9422,847980,East
+S003,18-08-2026,Grocery,Milk,50,251,12550,East
+S006,03-11-2026,Grocery,Milk,52,133,6916,East
+S002,12-05-2026,Electronics,Headphones,21,28036,588756,East
+S002,05-04-2026,Home Appliances,Blender,78,3426,267228,South
+S010,05-02-2026,Grocery,Eggs,8,101,808,North
+S001,04-10-2026,Home Appliances,Microwave,17,8582,145894,East
+S010,18-03-2026,Home Appliances,Vacuum Cleaner,90,5566,500940,West
+S006,28-08-2026,Home Appliances,Microwave,55,8530,469150,West
+S004,07-02-2026,Home Appliances,Blender,8,9045,72360,East
+S007,22-03-2026,Home Appliances,Microwave,27,5838,157626,East
+S002,13-09-2026,Home Appliances,Vacuum Cleaner,15,2565,38475,West
+S003,02-05-2026,Grocery,Eggs,15,116,1740,North
+S008,27-06-2026,Home Appliances,Fan,12,1880,22560,South
+S005,30-08-2026,Home Appliances,Microwave,13,8272,107536,East
+S010,22-01-2026,Clothing,Dress,36,572,20592,North
+S001,03-08-2026,Clothing,Dress,90,1204,108360,South
+S003,20-07-2026,Grocery,Rice,21,457,9597,South
+S002,12-01-2026,Clothing,Dress,42,1335,56070,North
+S004,28-05-2026,Electronics,TV,35,29613,1036455,West
+S004,28-03-2026,Clothing,Jeans,33,1718,56694,East
+S003,13-06-2026,Grocery,Eggs,34,202,6868,South
+S009,12-01-2026,Electronics,Mobile,65,46837,3044405,West
+S005,15-04-2026,Electronics,Laptop,59,32339,1908001,North
+S009,05-04-2026,Clothing,T-Shirt,33,1140,37620,South
+S009,11-06-2026,Electronics,Mobile,41,27172,1114052,South
+S003,01-12-2026,Home Appliances,Vacuum Cleaner,43,4329,186147,North
+S006,22-11-2026,Home Appliances,Microwave,48,5998,287904,North
+S010,25-01-2026,Clothing,T-Shirt,53,793,42029,West
+S005,01-01-2026,Clothing,Jeans,36,1776,63936,East
+S005,29-08-2026,Electronics,Headphones,22,24004,528088,West
+S006,12-02-2026,Grocery,Wheat,9,462,4158,North
+S003,29-04-2026,Clothing,Jeans,79,1774,140146,West
+S008,21-05-2026,Grocery,Milk,51,156,7956,South
+S006,30-12-2026,Grocery,Rice,46,375,17250,East
+S004,07-11-2026,Clothing,T-Shirt,5,1162,5810,South
+S001,17-11-2026,Electronics,TV,84,13900,1167600,South
+S007,01-11-2026,Electronics,Mobile,90,22103,1989270,East
+S008,06-04-2026,Grocery,Milk,61,327,19947,North
+S009,27-05-2026,Home Appliances,Microwave,69,8466,584154,North
+S004,01-05-2026,Clothing,T-Shirt,6,1141,6846,South
+S001,14-03-2026,Home Appliances,Vacuum Cleaner,71,4939,350669,West
+S005,16-09-2026,Clothing,Dress,65,1242,80730,East
+S005,24-09-2026,Home Appliances,Fan,86,3410,293260,North
+S009,21-01-2026,Electronics,Mobile,76,30973,2353948,North
+S003,19-10-2026,Electronics,Headphones,97,19888,1929136,South
+S004,28-05-2026,Clothing,Dress,8,1411,11288,South
+S009,05-05-2026,Grocery,Wheat,83,213,17679,West
+S010,05-10-2026,Electronics,TV,68,37547,2553196,South
+S002,03-05-2026,Electronics,Mobile,22,10159,223498,South
+S008,06-04-2026,Grocery,Milk,76,454,34504,West
+S002,01-06-2026,Grocery,Milk,8,214,1712,East
+S010,04-07-2026,Electronics,TV,57,40230,2293110,West
+S008,23-05-2026,Electronics,Headphones,54,39442,2129868,East
+S008,15-12-2026,Electronics,Headphones,58,18529,1074682,North
+S005,23-12-2026,Clothing,Jeans,77,892,68684,North
+S004,12-11-2026,Electronics,Mobile,19,47893,909967,North
+S009,02-07-2026,Clothing,Jeans,46,1887,86802,East
+S005,21-12-2026,Grocery,Eggs,94,268,25192,West
+S007,11-06-2026,Home Appliances,Blender,91,2802,254982,West
+S006,16-05-2026,Electronics,Headphones,55,19388,1066340,South
+S006,08-12-2026,Clothing,Dress,21,1397,29337,South
+S002,24-04-2026,Clothing,Jeans,49,1620,79380,East
+S004,27-03-2026,Grocery,Milk,77,96,7392,South
+S006,04-03-2026,Home Appliances,Vacuum Cleaner,19,2314,43966,West
+S010,20-08-2026,Grocery,Eggs,46,344,15824,East
+S007,10-04-2026,Clothing,Dress,12,548,6576,West
+S003,04-08-2026,Electronics,Mobile,22,10895,239690,North
+S004,18-06-2026,Grocery,Milk,35,387,13545,North
+S009,25-01-2026,Clothing,Dress,22,1564,34408,North
+S006,18-12-2026,Clothing,Jacket,50,1604,80200,West
+S007,10-07-2026,Home Appliances,Vacuum Cleaner,29,8359,242411,East
+S002,13-08-2026,Grocery,Eggs,79,153,12087,North
+S005,01-06-2026,Grocery,Rice,8,359,2872,South
+S002,01-11-2026,Electronics,TV,83,44714,3711262,North
+S003,30-01-2026,Electronics,Laptop,70,48843,3419010,West
+S005,11-02-2026,Grocery,Eggs,91,165,15015,East
+S008,10-07-2026,Grocery,Wheat,68,350,23800,North
+S006,24-01-2026,Grocery,Rice,65,454,29510,West
+S003,03-01-2026,Home Appliances,Vacuum Cleaner,19,9923,188537,West
+S010,11-09-2026,Clothing,Jeans,94,1921,180574,West
+S010,16-12-2026,Electronics,Laptop,34,40522,1377748,East
+S010,07-05-2026,Clothing,Jeans,79,1538,121502,North
+S003,06-08-2026,Clothing,T-Shirt,72,1535,110520,South
+S005,01-01-2026,Electronics,Laptop,55,34867,1917685,West
+S006,12-06-2026,Clothing,Dress,8,622,4976,South
+S010,29-05-2026,Grocery,Rice,28,126,3528,East
+S004,07-06-2026,Grocery,Milk,60,69,4140,East
+S006,03-11-2026,Clothing,T-Shirt,47,1934,90898,West
+S003,27-04-2026,Grocery,Milk,63,470,29610,South
+S006,13-12-2026,Grocery,Milk,29,73,2117,North
+S007,27-11-2026,Home Appliances,Vacuum Cleaner,20,2625,52500,East
+S006,29-06-2026,Electronics,TV,8,45211,361688,East
+S008,28-12-2026,Home Appliances,Fan,17,6273,106641,West
+S005,28-10-2026,Grocery,Rice,55,496,27280,South
+S003,17-02-2026,Home Appliances,Fan,97,9083,881051,South
+S006,13-08-2026,Home Appliances,Microwave,30,7924,237720,East
+S009,18-05-2026,Home Appliances,Fan,98,7175,703150,West
+S003,29-01-2026,Clothing,Dress,37,1148,42476,West
+S001,05-03-2026,Home Appliances,Microwave,66,4918,324588,North
+S009,22-06-2026,Clothing,Jeans,70,898,62860,South
+S009,30-01-2026,Grocery,Wheat,9,120,1080,West
+S009,26-09-2026,Grocery,Rice,57,139,7923,North
+S008,23-06-2026,Clothing,Jeans,99,1759,174141,East
+S002,23-09-2026,Clothing,Dress,6,545,3270,South
+S003,16-06-2026,Electronics,Headphones,78,41217,3214926,West
+S001,28-06-2026,Clothing,Dress,73,1148,83804,North
+S004,15-10-2026,Grocery,Milk,10,73,730,West
+S008,19-08-2026,Home Appliances,Microwave,82,6435,527670,South
+S002,22-07-2026,Clothing,Dress,32,1476,47232,South
+S001,02-09-2026,Electronics,TV,87,20158,1753746,South
+S010,02-01-2026,Clothing,T-Shirt,54,1296,69984,North
+S005,24-05-2026,Clothing,T-Shirt,35,1238,43330,North
+S004,08-08-2026,Home Appliances,Microwave,46,5477,251942,West
+S010,15-09-2026,Home Appliances,Blender,66,4208,277728,North
+S005,16-06-2026,Clothing,Jeans,62,1669,103478,East
+S002,09-06-2026,Electronics,Laptop,99,18420,1823580,East
+S002,05-01-2026,Clothing,T-Shirt,6,1327,7962,West
+S007,20-06-2026,Clothing,T-Shirt,85,1815,154275,East
+S004,04-12-2026,Clothing,Jacket,70,1351,94570,West
+S010,24-05-2026,Grocery,Rice,39,403,15717,North
+S006,03-06-2026,Electronics,Headphones,31,42348,1312788,South
+S006,23-09-2026,Home Appliances,Microwave,70,6976,488320,West
+S009,27-08-2026,Home Appliances,Blender,100,3946,394600,East
+S007,11-03-2026,Electronics,TV,64,21194,1356416,North
+S001,25-04-2026,Electronics,Headphones,87,17631,1533897,South
+S001,29-05-2026,Grocery,Eggs,54,340,18360,West
+S009,27-04-2026,Home Appliances,Blender,16,5339,85424,East
+S010,04-12-2026,Electronics,Headphones,75,32203,2415225,South
+S002,01-07-2026,Grocery,Eggs,60,145,8700,East
+S006,11-04-2026,Clothing,Jeans,29,562,16298,South
+S007,23-09-2026,Clothing,Jacket,50,1648,82400,South
+S008,23-09-2026,Electronics,Laptop,48,18522,889056,North
+S004,14-06-2026,Grocery,Rice,14,151,2114,East
+S001,01-08-2026,Home Appliances,Vacuum Cleaner,17,4660,79220,South
+S001,24-11-2026,Grocery,Wheat,50,358,17900,North
+S009,19-10-2026,Grocery,Eggs,11,254,2794,North
+S005,24-04-2026,Home Appliances,Vacuum Cleaner,80,7589,607120,South
+S010,16-11-2026,Home Appliances,Vacuum Cleaner,32,2892,92544,West
+S004,06-01-2026,Home Appliances,Blender,26,3284,85384,West
+S005,17-10-2026,Clothing,Jeans,74,1876,138824,East
+S005,27-11-2026,Clothing,Jeans,45,779,35055,West
+S007,31-07-2026,Home Appliances,Microwave,74,9721,719354,South
+S010,01-04-2026,Clothing,Jeans,5,1703,8515,East
+S009,21-01-2026,Grocery,Milk,62,420,26040,North
+S002,03-12-2026,Grocery,Rice,68,320,21760,South
+S001,07-07-2026,Home Appliances,Fan,6,8537,51222,East
+S005,19-06-2026,Grocery,Rice,66,168,11088,West
+S004,27-12-2026,Electronics,Headphones,31,43502,1348562,West
+S004,24-03-2026,Grocery,Milk,9,166,1494,North
+S008,15-11-2026,Home Appliances,Fan,79,8465,668735,West
+S005,31-10-2026,Clothing,Dress,90,1744,156960,North
+S002,20-12-2026,Home Appliances,Blender,37,9504,351648,North
+S007,01-08-2026,Electronics,Mobile,99,41714,4129686,West
+S003,12-03-2026,Electronics,TV,80,40180,3214400,West
+S001,20-08-2026,Home Appliances,Blender,71,2264,160744,East
+S007,29-01-2026,Home Appliances,Blender,98,9129,894642,South
+S006,16-03-2026,Electronics,Headphones,50,17515,875750,North
+S001,22-01-2026,Electronics,Laptop,71,25556,1814476,South
+S004,08-07-2026,Home Appliances,Vacuum Cleaner,18,5425,97650,West
+S009,14-05-2026,Grocery,Eggs,100,328,32800,West
+S007,24-05-2026,Clothing,Dress,91,1705,155155,West
+S004,25-11-2026,Clothing,Jeans,23,1199,27577,East
+S010,02-05-2026,Electronics,Laptop,98,43982,4310236,West
+S010,10-08-2026,Electronics,Headphones,43,44659,1920337,West
+S006,29-10-2026,Home Appliances,Vacuum Cleaner,47,6961,327167,South
+S004,30-12-2026,Electronics,Mobile,56,36994,2071664,South
+S006,10-10-2026,Home Appliances,Blender,46,4953,227838,West
+S010,23-02-2026,Grocery,Milk,44,58,2552,South
+S004,20-01-2026,Clothing,Jeans,99,1880,186120,East
+S005,04-12-2026,Electronics,Mobile,84,40673,3416532,East
+S006,31-03-2026,Grocery,Eggs,45,87,3915,South
+S009,21-01-2026,Electronics,Mobile,52,36705,1908660,North
+S003,25-06-2026,Grocery,Milk,36,467,16812,South
+S002,04-09-2026,Home Appliances,Blender,91,1312,119392,South
+S003,29-04-2026,Clothing,Dress,51,1114,56814,West
+S003,12-03-2026,Grocery,Milk,82,232,19024,North
+S005,29-01-2026,Home Appliances,Microwave,59,6215,366685,West
+S006,04-09-2026,Clothing,Jacket,38,1907,72466,North
+S001,23-06-2026,Home Appliances,Blender,11,8132,89452,West
+S001,07-05-2026,Clothing,Jacket,41,543,22263,South
+S003,14-05-2026,Home Appliances,Microwave,65,8868,576420,South
+S005,24-07-2026,Electronics,Laptop,21,22025,462525,South
+S001,01-10-2026,Clothing,Dress,96,1312,125952,South
+S008,07-03-2026,Clothing,Jeans,78,696,54288,East
+S003,24-11-2026,Grocery,Milk,28,346,9688,South
+S002,30-07-2026,Electronics,TV,61,36249,2211189,South
+S002,05-09-2026,Home Appliances,Microwave,26,5336,138736,West
+S009,15-12-2026,Clothing,Jacket,61,599,36539,East
+S010,13-05-2026,Electronics,Mobile,90,10607,954630,East
+S010,26-03-2026,Electronics,Laptop,29,19120,554480,West
+S009,24-01-2026,Clothing,T-Shirt,76,390,29640,South
+S005,26-11-2026,Clothing,Dress,83,1596,132468,North
+S004,26-07-2026,Grocery,Eggs,14,444,6216,East
+S009,25-02-2026,Electronics,Mobile,66,46521,3070386,North
+S007,27-02-2026,Electronics,Headphones,12,34792,417504,West
+S005,14-05-2026,Clothing,Dress,20,1794,35880,South
+S004,21-02-2026,Electronics,Mobile,83,16316,1354228,East
+S005,03-01-2026,Grocery,Milk,84,452,37968,East
+S008,16-11-2026,Grocery,Wheat,16,346,5536,West
+S005,01-11-2026,Electronics,Laptop,98,38235,3747030,West
+S005,09-12-2026,Grocery,Rice,24,486,11664,North
+S010,17-04-2026,Home Appliances,Microwave,57,2878,164046,West
+S004,01-11-2026,Grocery,Eggs,78,102,7956,North
+S005,26-03-2026,Electronics,TV,74,13614,1007436,East
+S008,30-01-2026,Home Appliances,Blender,7,6871,48097,South
+S005,10-04-2026,Grocery,Eggs,73,205,14965,South
+S007,02-01-2026,Grocery,Eggs,72,68,4896,East
+S005,14-07-2026,Clothing,Dress,75,1406,105450,North
+S007,09-05-2026,Grocery,Rice,7,208,1456,North
+S004,23-03-2026,Grocery,Rice,21,247,5187,North
+S006,18-09-2026,Electronics,Headphones,49,24659,1208291,East
+S009,01-12-2026,Grocery,Milk,5,87,435,East
+S005,15-06-2026,Home Appliances,Fan,68,4200,285600,South
+S001,01-05-2026,Electronics,TV,70,37624,2633680,West
+S009,01-10-2026,Home Appliances,Vacuum Cleaner,81,9695,785295,North
+S009,14-08-2026,Home Appliances,Fan,100,9706,970600,South
+S010,04-08-2026,Clothing,T-Shirt,32,1915,61280,West
+S009,01-11-2026,Home Appliances,Vacuum Cleaner,40,2631,105240,East
+S001,12-03-2026,Clothing,T-Shirt,28,727,20356,West
+S003,31-05-2026,Home Appliances,Blender,26,4469,116194,South
+S010,28-01-2026,Grocery,Rice,57,426,24282,East
+S009,14-03-2026,Grocery,Wheat,16,230,3680,South
+S002,12-06-2026,Clothing,Dress,75,1291,96825,North
+S002,27-12-2026,Grocery,Rice,92,466,42872,East
+S009,05-12-2026,Electronics,Headphones,43,28254,1214922,South
+S005,14-07-2026,Home Appliances,Blender,80,7408,592640,West
+S005,30-05-2026,Home Appliances,Microwave,92,9192,845664,West
+S005,09-03-2026,Grocery,Wheat,82,412,33784,South
+S010,26-04-2026,Clothing,Dress,60,1389,83340,South
+S010,25-02-2026,Electronics,TV,16,40370,645920,North
+S009,08-02-2026,Grocery,Milk,97,124,12028,East
+S001,14-09-2026,Clothing,Jeans,12,1473,17676,West
+S003,13-08-2026,Grocery,Milk,53,415,21995,South
+S003,19-10-2026,Grocery,Wheat,49,311,15239,East
+S004,21-04-2026,Home Appliances,Microwave,9,3358,30222,West
+S006,08-04-2026,Home Appliances,Blender,60,7317,439020,North
+S009,02-12-2026,Grocery,Wheat,94,363,34122,West
+S007,22-01-2026,Home Appliances,Blender,73,6767,493991,East
+S001,03-05-2026,Grocery,Milk,10,467,4670,East
+S006,13-05-2026,Clothing,Jeans,80,1656,132480,East
+S006,09-10-2026,Grocery,Rice,26,452,11752,North
+S007,19-12-2026,Grocery,Wheat,80,232,18560,West
+S007,17-11-2026,Electronics,TV,28,20752,581056,North
+S004,05-12-2026,Electronics,Laptop,39,34614,1349946,East
+S002,01-02-2026,Grocery,Milk,27,253,6831,West
+S007,03-12-2026,Grocery,Wheat,10,388,3880,North
+S009,10-10-2026,Electronics,Laptop,96,17963,1724448,West
+S009,20-09-2026,Clothing,Jeans,63,834,52542,South
+S001,01-02-2026,Home Appliances,Blender,40,8839,353560,West
+S005,31-01-2026,Grocery,Milk,37,62,2294,North
+S008,19-12-2026,Electronics,TV,54,38643,2086722,South
+S008,30-10-2026,Grocery,Eggs,80,156,12480,South
+S007,13-08-2026,Home Appliances,Fan,17,6086,103462,North
+S007,01-02-2026,Clothing,Jacket,81,1326,107406,South
+S002,25-07-2026,Grocery,Eggs,17,270,4590,North
+S002,24-07-2026,Clothing,T-Shirt,68,328,22304,West
+S005,01-03-2026,Home Appliances,Vacuum Cleaner,48,7596,364608,East
+S010,10-05-2026,Clothing,Dress,60,1462,87720,East
+S009,05-09-2026,Grocery,Milk,10,268,2680,South
+S001,29-10-2026,Electronics,Mobile,26,29679,771654,North
+S004,28-08-2026,Electronics,Headphones,80,16695,1335600,East
+S006,03-01-2026,Clothing,T-Shirt,35,1597,55895,North
+S008,08-12-2026,Clothing,Jacket,71,1588,112748,North
+S003,29-05-2026,Clothing,T-Shirt,67,1507,100969,East
+S003,14-10-2026,Electronics,TV,32,38995,1247840,North
+S009,11-03-2026,Clothing,T-Shirt,30,1101,33030,West
+S006,27-02-2026,Home Appliances,Vacuum Cleaner,13,3689,47957,East
+S009,05-09-2026,Grocery,Milk,78,288,22464,East
+S009,15-03-2026,Home Appliances,Fan,22,8588,188936,North
+S002,17-02-2026,Clothing,Dress,97,1171,113587,North
+S009,07-03-2026,Grocery,Wheat,100,301,30100,West
+S008,23-09-2026,Home Appliances,Microwave,65,2907,188955,North
+S010,25-11-2026,Electronics,Laptop,94,27997,2631718,North
+S007,19-09-2026,Electronics,TV,41,49886,2045326,West
+S008,11-07-2026,Clothing,Jeans,42,1209,50778,North
+S005,14-04-2026,Clothing,T-Shirt,86,924,79464,South
+S010,22-07-2026,Electronics,Headphones,66,13697,904002,North
+S001,02-07-2026,Clothing,Jeans,41,504,20664,East
+S003,03-08-2026,Electronics,TV,11,47471,522181,South
+S007,28-08-2026,Grocery,Eggs,37,487,18019,South
+S009,17-10-2026,Clothing,T-Shirt,18,598,10764,South
+S004,08-03-2026,Home Appliances,Fan,95,2469,234555,South
+S005,29-04-2026,Home Appliances,Microwave,88,5105,449240,South
+S009,25-09-2026,Home Appliances,Vacuum Cleaner,93,7648,711264,West
+S010,05-11-2026,Home Appliances,Microwave,41,5861,240301,West
+S006,30-09-2026,Clothing,Dress,53,1453,77009,North
+S003,13-01-2026,Grocery,Wheat,54,398,21492,North
+S004,30-12-2026,Grocery,Eggs,89,56,4984,South
+S005,14-07-2026,Electronics,Laptop,63,45704,2879352,East
+S004,03-03-2026,Grocery,Wheat,84,448,37632,West
+S004,04-03-2026,Grocery,Milk,98,461,45178,South
+S009,15-05-2026,Clothing,Jeans,91,1871,170261,South
+S010,25-01-2026,Clothing,T-Shirt,89,1721,153169,South
+S001,02-09-2026,Home Appliances,Fan,29,2007,58203,North
+S009,18-06-2026,Electronics,Mobile,85,12549,1066665,East
+S005,03-05-2026,Electronics,Headphones,35,13947,488145,South
+S010,03-07-2026,Clothing,Dress,37,385,14245,North
+S009,04-06-2026,Grocery,Wheat,64,182,11648,East
+S001,21-07-2026,Clothing,Dress,14,1005,14070,South
+S001,28-12-2026,Home Appliances,Vacuum Cleaner,35,3016,105560,East
+S001,21-07-2026,Home Appliances,Fan,82,2360,193520,South
+S001,02-02-2026,Grocery,Wheat,50,438,21900,South
+S009,24-10-2026,Home Appliances,Blender,76,7635,580260,North
+S002,06-03-2026,Grocery,Eggs,9,108,972,North
+S008,03-02-2026,Grocery,Milk,77,223,17171,East
+S010,26-09-2026,Clothing,Dress,65,1409,91585,East
+S010,04-02-2026,Grocery,Rice,48,57,2736,South
+S010,04-09-2026,Clothing,Dress,43,704,30272,East
+S007,09-07-2026,Clothing,Jeans,66,1194,78804,North
+S005,16-09-2026,Electronics,Laptop,75,24458,1834350,East
+S005,11-11-2026,Clothing,Jacket,35,1697,59395,West
+S001,06-02-2026,Grocery,Rice,43,483,20769,East
+S002,14-06-2026,Home Appliances,Vacuum Cleaner,77,9251,712327,North
+S006,31-03-2026,Clothing,T-Shirt,54,1792,96768,East
+S005,13-11-2026,Home Appliances,Microwave,7,4920,34440,South
+S001,27-07-2026,Grocery,Eggs,75,298,22350,South
+S004,07-10-2026,Electronics,Headphones,84,18659,1567356,South
+S005,13-02-2026,Clothing,Dress,62,1717,106454,South
+S003,28-04-2026,Grocery,Eggs,27,458,12366,East
+S005,13-01-2026,Home Appliances,Vacuum Cleaner,68,7800,530400,West
+S002,22-06-2026,Electronics,Headphones,66,33702,2224332,East
+S009,05-05-2026,Electronics,Mobile,14,12425,173950,South
+S003,16-08-2026,Electronics,Mobile,29,44876,1301404,West
+S010,23-01-2026,Grocery,Rice,63,179,11277,East
+S009,09-06-2026,Electronics,Headphones,69,42636,2941884,West
+S008,19-12-2026,Electronics,Mobile,43,21889,941227,South
+S003,08-01-2026,Clothing,T-Shirt,10,815,8150,South
+S006,30-06-2026,Clothing,Jacket,41,1667,68347,West
+S008,04-06-2026,Grocery,Rice,44,404,17776,East
+S005,27-05-2026,Home Appliances,Fan,27,7006,189162,East
+S004,08-07-2026,Grocery,Rice,39,166,6474,East
+S009,05-05-2026,Grocery,Wheat,89,172,15308,South
+S004,19-12-2026,Home Appliances,Vacuum Cleaner,90,9197,827730,East
+S004,25-09-2026,Clothing,Dress,30,1917,57510,North
+S006,27-10-2026,Home Appliances,Blender,5,6720,33600,West
+S010,19-04-2026,Electronics,Headphones,78,38918,3035604,East
+S002,15-07-2026,Grocery,Rice,36,455,16380,North
+S001,27-12-2026,Home Appliances,Vacuum Cleaner,32,6525,208800,South
+S004,25-07-2026,Grocery,Wheat,10,280,2800,East
+S003,24-05-2026,Home Appliances,Fan,21,4258,89418,East
+S004,11-09-2026,Electronics,Laptop,85,21548,1831580,North
+S003,08-08-2026,Home Appliances,Fan,85,5957,506345,East
+S009,09-07-2026,Home Appliances,Microwave,67,6869,460223,North
+S005,22-08-2026,Clothing,Jeans,5,1658,8290,South
+S004,19-11-2026,Home Appliances,Fan,21,2379,49959,West
+S010,06-06-2026,Home Appliances,Fan,56,2832,158592,South
+S004,06-02-2026,Grocery,Rice,79,400,31600,North
+S005,07-09-2026,Grocery,Wheat,73,461,33653,South
+S004,24-11-2026,Clothing,T-Shirt,64,928,59392,East
+S001,08-08-2026,Clothing,Jeans,28,1401,39228,South
+S006,22-11-2026,Grocery,Milk,19,273,5187,West
+S004,08-08-2026,Grocery,Rice,16,376,6016,East
+S008,17-03-2026,Electronics,Mobile,14,33407,467698,West
+S009,22-02-2026,Home Appliances,Vacuum Cleaner,5,7331,36655,East
+S007,01-12-2026,Clothing,T-Shirt,65,469,30485,East
+S004,15-01-2026,Clothing,Jeans,73,353,25769,East
+S001,20-12-2026,Clothing,T-Shirt,59,1249,73691,South
+S009,14-04-2026,Electronics,Mobile,14,25638,358932,East
+S004,27-03-2026,Clothing,T-Shirt,10,435,4350,South
+S001,10-05-2026,Electronics,Headphones,87,21642,1882854,South
+S004,01-04-2026,Grocery,Milk,22,182,4004,North
+S010,23-10-2026,Home Appliances,Fan,29,4766,138214,South
+S007,07-03-2026,Clothing,Jacket,12,1092,13104,North
+S009,05-05-2026,Grocery,Milk,50,303,15150,West
+S004,15-12-2026,Clothing,Jeans,98,992,97216,West
+S005,17-01-2026,Clothing,Jacket,14,1599,22386,West
+S008,05-09-2026,Clothing,Dress,66,1979,130614,East
+S004,31-05-2026,Home Appliances,Microwave,95,7322,695590,West
+S003,23-05-2026,Grocery,Wheat,71,233,16543,West
+S009,15-05-2026,Clothing,Dress,52,334,17368,North
+S009,29-06-2026,Electronics,Headphones,27,44091,1190457,South
+S002,26-12-2026,Home Appliances,Blender,85,3740,317900,East
+S007,02-09-2026,Grocery,Milk,10,454,4540,North
+S007,12-02-2026,Grocery,Rice,55,248,13640,West
+S007,20-07-2026,Home Appliances,Vacuum Cleaner,17,2714,46138,South
+S003,19-08-2026,Grocery,Eggs,84,314,26376,North
+S004,12-02-2026,Clothing,Dress,63,331,20853,North
+S005,18-02-2026,Grocery,Milk,28,208,5824,East
+S004,16-05-2026,Grocery,Eggs,30,344,10320,South
+S008,03-10-2026,Electronics,Laptop,32,33907,1085024,West
+S004,09-02-2026,Grocery,Rice,44,63,2772,North
+S005,12-10-2026,Clothing,T-Shirt,92,1571,144532,West
+S008,26-04-2026,Grocery,Milk,29,492,14268,East
+S002,19-02-2026,Grocery,Eggs,100,419,41900,West
+S009,03-03-2026,Clothing,T-Shirt,31,1133,35123,West
