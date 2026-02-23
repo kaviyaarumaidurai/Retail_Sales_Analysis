@@ -112,6 +112,8 @@ Using \*\*Pandas\*\* and visualization libraries:
 
 Developed an interactive dashboard featuring:
 
+[Dashboard Screenshot](Retail sales Dashboard.png)
+
 \- Revenue by Category  
 
 \- Top Products by Revenue  
@@ -209,6 +211,7 @@ Acknowledgment
 This project is part of a \*\*data analytics portfolio\*\* demonstrating end-to-end workflow:  
 
 Data Cleaning → SQL Analysis → Python Analytics → Visualization → Dashboard Creation.
+
 
 
 
