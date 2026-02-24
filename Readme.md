@@ -97,7 +97,7 @@ Power BI Dashboard
 
 Developed an interactive dashboard featuring:
 
-![Dashboard Screenshot](Retail sales Dashboard.png)
+Dashboard Screenshot(Retail sales Dashboard.png)
 
     Revenue by Category  
 
@@ -177,6 +177,7 @@ Acknowledgment
 This project is part of a \data analytics portfolio\ demonstrating end-to-end workflow:  
 
 Data Cleaning → SQL Analysis → Python Analytics → Visualization → Dashboard Creation.
+
 
 
 
